@@ -12,10 +12,10 @@ Returns dividends data - B3/IBOV
   <img src="./images/Address.png" width="250" title="Address">
   <img src="./images/MetaMask.png" width="250" title="MetaMask">
     <div id="banner" style="overflow: hidden; display: inline-block;">
-        <div class="">
+        <div class="inline-block">
             <img src ="./images/Address.png" width="150" title="Address">
         </div>
-        <div class="">
+        <div class="inline-block">
             <img src ="./images/MetaMask.png" width="150" title="MetaMask">
         </div>
     </div>
