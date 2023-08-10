@@ -10,18 +10,9 @@ Returns dividends data - B3/IBOV
   <h3>CRYPTO BTC or USDT (All ERC20 & BEP20) = 0x00DacE6C60934CB27BB05319f22512BfDdFFa22e</h3>
 </p>
 <p float="left">
-  <img src="./images/Address.png" width="250" title="Address">
-  <img src="./images/MetaMask.png" width="250" title="MetaMask">
+  <img src="./images/Address.png" width="350" title="Address">
+  <img src="./images/MetaMask.png" width="350" title="MetaMask">
 </p>
-
-    <div id="banner">
-        <div class="inline-block">
-            <img src ="./images/Address.png" style="display: inline-block;" width="150" title="Address">
-        </div>
-        <div class="inline-block">
-            <img src ="./images/MetaMask.png" style="display: inline-block;" width="150" title="MetaMask">
-        </div>
-    </div>
 
 
 
