@@ -9,6 +9,7 @@ Returns dividends data - B3/IBOV
   <img src="./images/Pix.png" width="350" title="hover text">
   <h3>CRYPTO BTC or USDT (All ERC20 & BEP20) = 0x00DacE6C60934CB27BB05319f22512BfDdFFa22e</h3>
   <img src="./images/Address.png" width="350" title="hover text">
+    <img src="./images/MetaMask.png" width="350" title="hover text">
 </p>
 
 
