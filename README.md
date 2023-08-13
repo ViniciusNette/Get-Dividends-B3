@@ -2,7 +2,7 @@
 # Get-Dividends-B3
 Returns dividends data - B3/IBOV
 
-
+Buy me a coffee! ☕
 # DOAÇÕES/DONATIONS:
 <p align="left">
   <h3>PIX <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20" title="BR">= <br>fd168419-5fb3-43be-9cf7-4a34de508424</h3>
