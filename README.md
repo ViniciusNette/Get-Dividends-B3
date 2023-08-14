@@ -6,8 +6,8 @@ Buy me a coffee! ☕
 # DOAÇÕES/DONATIONS:
 <p align="center">
   PIX <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20" title="BR">
-  <h4> <br>fd168419-5fb3-43be-9cf7-4a34de508424</h4>
-  <img src="./images/Pix.png" width="350" title="PIX">
+  <br>fd168419-5fb3-43be-9cf7-4a34de508424
+  <img src="./images/Pix.png" width="350" style="text-align: center" title="PIX">
 </p>
 
 <p align="left">
