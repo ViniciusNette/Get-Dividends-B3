@@ -11,7 +11,7 @@ Buy me a coffee! ☕
   <img src="./images/Pix.png" width="300" title="PIX">
 </p>
   <h3 align="center">CRYPTO 🌐 BTC🪙 or USDT💵 (All ERC20 & BEP20 Tokens supported) <br>0x00DacE6C60934CB27BB05319f22512BfDdFFa22e</h3>
-<p float="center">
+<p align="center">
   <img align="center" src="./images/Address.png" width="300" title="Address">
   <img align="center" src="./images/MetaMask.png" width="300" title="MetaMask">
 </p>
