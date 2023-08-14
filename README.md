@@ -5,10 +5,11 @@ Returns dividends data - B3/IBOV
 Buy me a coffee! ☕
 # DOAÇÕES/DONATIONS:
 <p align="center">
-PIX <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20" title="BR">
+
 </p>
-<p align="left">
-  <h3> <br>fd168419-5fb3-43be-9cf7-4a34de508424</h3>
+<p align="center">
+  PIX <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20" title="BR">
+  <h4> <br>fd168419-5fb3-43be-9cf7-4a34de508424</h4>
   <img src="./images/Pix.png" width="350" title="PIX">
   
   <h3>CRYPTO 🌐 BTC🪙 or USDT💵 (All ERC20 & BEP20 Tokens supported) <br>0x00DacE6C60934CB27BB05319f22512BfDdFFa22e</h3>
