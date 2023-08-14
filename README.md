@@ -3,6 +3,7 @@
 Returns dividends data - B3/IBOV
 
 Buy me a coffee! ☕
+<p align="center">
 # DOAÇÕES/DONATIONS:
 <h4 align="center">PIX <img src="https://cdn-icons-png.flaticon.com/512/197/197386.png" width="20" title="BR"></h4>
 <p align="center">
@@ -16,6 +17,6 @@ Buy me a coffee! ☕
   <img src="./images/Address.png" width="300" title="Address">
   <img src="./images/MetaMask.png" width="300" title="MetaMask">
 </p>
-
+</p>
 
 
