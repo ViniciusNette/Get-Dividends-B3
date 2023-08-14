@@ -9,7 +9,7 @@ Buy me a coffee! ☕
 
 <p align="center">
   fd168419-5fb3-43be-9cf7-4a34de508424<br>
-  <img src="./images/Pix.png" width="300" title="PIX"></p>
+  <img src="https://ecocx.com.br/images/Pix.png" width="300" title="PIX"></p>
 
 <h3 align="center">CRYPTO 🌐 BTC<img src="https://seeklogo.com/images/B/bitcoin-logo-594596D72F-seeklogo.com.png" width="20" title="BTC"> or USDT<img src="https://cryptologos.cc/logos/tether-usdt-logo.png" width="20" title="USDT"> (ERC20 & BEP20 Support)</h3>
 
